@@ -61,7 +61,7 @@ html, body {
 	height: 49px;
 	background: #101619;
 	width: 100%;
-	border-bottom: 1px #186144 solid;
+	border-bottom: 1px #2196f3 solid;
 	z-index: 2;
 }
 
@@ -79,7 +79,7 @@ html, body {
 	margin-left: 20px;
 	margin-top: 9px;
 	float: left;
-	background: url(https://i.imgur.com/zoKOaEY.png) no-repeat;
+	background: url(https://i.imgur.com/IjB5f3Z.png) no-repeat;
 }
 
 .profile {
@@ -99,7 +99,7 @@ html, body {
     line-height: 50px;
     float: right;
     cursor: pointer;
-	outline: 1px #25793B solid;
+	outline: 1px #2196f3 solid;
 	
 }
 
@@ -153,7 +153,7 @@ html, body {
 	display: block;
 	font-family: 'Rajdhani', sans-serif;
 	font-size: 20px;
-	color: #186144;
+	color: #2196f3;
 	width: 150px;
 	margin: 20px auto 5px;
 	border-bottom: 1px #1E2C36 solid;
@@ -320,14 +320,14 @@ html, body {
 	width: 33.3%;
 	background: #090D10;
 	text-align: center;
-	border: 1px #186144 solid;
+	border: 1px #2196f3 solid;
 	border-left: 1px transparent;
 	cursor: pointer;
 }
 
 .jackpotDifficultyContainer div.active {
-	background: #25793B;
-	color: #59BB32;
+	background: #17629e;
+    color: #2196f3;
 }
 
 .jackpotStats {
@@ -374,7 +374,7 @@ html, body {
 	height: 100%;
 	width: 100%;
 	background: #101619;
-	border-bottom: 1px #186144 solid;
+	border-bottom: 1px #2196f3 solid;
 	background: linear-gradient(rgba(16, 22, 25, .5), rgba(16, 22, 25, 1)), url(https://i.imgur.com/vakyLA5.png);
 	background-size: cover;
 }
@@ -389,14 +389,14 @@ html, body {
 	width: 70px;
 	float: center;
 	margin: auto;
-	outline: 1px #25793B solid;
+	outline: 1px #2196f3 solid;
 }
 
 .tableCanner {
 	height: 70px;
 	width: 70px;
 	margin-left: 50px;
-	outline: 1px #25793B solid;
+	outline: 1px #2196f3 solid;
 }
 
 .jackpotCountDownLabel {
@@ -464,7 +464,7 @@ html, body {
 	width: 100%;
 	background: #101619;
 	overflow-y: auto;
-	border-bottom: 1px #186144 solid;
+	border-bottom: 1px #2196f3 solid;
 }
 
 .inventoryTagContainer {
@@ -497,7 +497,7 @@ html, body {
 	padding-left: 6px;
 	width: 100%;
 	margin-top: 1px;
-	outline: 1px #186144 solid;
+	outline: 1px #2196f3 solid;
 }
 
 .inventorySwapItem {
@@ -517,7 +517,7 @@ html, body {
 	background: #0D1113;
 	color: #fff;
 	bottom: 0;
-	border-top: 1px #186144 solid;
+	border-top: 1px #2196f3 solid;
 }
 
 .jackpotRightStartButton {
@@ -528,12 +528,12 @@ html, body {
 	height: 100%;
 	width: 150px;
 	line-height: 80px;
-	background: #186144;
+	background: #2196f3;
 	cursor: pointer;
 }
 
 .jackpotRightStartButton:hover {
-	background: #095839;
+	background: #1b78a3;
 }
 
 .jackpotRightSkins {
@@ -555,7 +555,7 @@ html, body {
 
 .spanTag {
 	font-size: 20px;
-	color: #186144;
+	color: #2196f3;
 }
 
 .jackpotRightValue {
@@ -571,7 +571,7 @@ html, body {
 	height: 395px;
 	width: 100%;
 	background: #151515;
-	border-top: 1px #25793B solid;
+	border-top: 1px #2196f3 solid;
 }
 
 .depositorContainer {
@@ -608,7 +608,7 @@ html, body {
 	width: 64px;
 	float: left;
 	margin: 8px;
-	outline: 1px #25793B solid;
+	outline: 1px #2196f3 solid;
 }
 
 .depositorName {
@@ -661,7 +661,7 @@ html, body {
 	height: 600px;
 	width: 700px;
 	background: #101619;
-	border: 1px #186144 solid;
+	border: 1px #2196f3 solid;
 }
 
 .modalMain.winner {
@@ -675,8 +675,8 @@ html, body {
 	width: 900px;
 	text-align: center;
 	background: #101916;
-	border: 1px #186144 solid;
-	box-shadow: 0 0 125px rgba(24, 109, 63, 0.87);
+	border: 1px #2196f3 solid;
+	box-shadow: 0 0 125px rgba(15, 114, 121, 0.87);
 }
 
 .modalSkinName {
@@ -693,7 +693,7 @@ html, body {
 }
 
 .winnerAmount {
-  color: #186144;
+  color: #2196f3;
 }
 
 .winnerModalSkinContainer {
@@ -726,13 +726,13 @@ html, body {
 	height: 30px;
 	line-height: 30px;
 	color: #2D9E71;
-	background: #186144;
+	background: #2196f3;
 	cursor: pointer;
 	transition: .2s;
 }
 
 .modalClose:hover {
-	color: #186144;
+	color: #2196f3;
 	background: #2D9E71;
 }
 
@@ -794,7 +794,7 @@ html, body {
 	bottom: 0;
 	width: 580px;
 	background: #090D10;
-	border-left: 1px #186144 solid;
+	border-left: 1px #2196f3 solid;
 }
 
 .rightMain {
@@ -828,7 +828,7 @@ html, body {
 	right: 0;
 	bottom: 0;
 	height: 125px;
-	border-top: 1px #186144 solid;
+	border-top: 1px #2196f3 solid;
 	/*display: flex;*/
 	display: none;
 	justify-content: space-around;
@@ -901,7 +901,7 @@ html, body {
 	width: 76px;
 	float: left;
 	margin: 10px;
-	border: 2px #186144 solid;
+	border: 2px #2196f3 solid;
 }
 
 .upgradePicture img {
@@ -943,7 +943,7 @@ html, body {
 	width: 100%;
     bottom: 0;
     left: 0;
-	border-top: 1px #186144 solid;
+	border-top: 1px #2196f3 solid;
 }
 
 .container {
@@ -964,7 +964,7 @@ html, body {
 
 .main.small {
 	top: 350px;
-	border-top: 1px #186144 solid;
+	border-top: 1px #2196f3 solid;
 }
 
 .button:hover {
@@ -1087,11 +1087,11 @@ html, body {
 	color: #fff;
 	width: 100%;
 	height: 30px;
-	border-bottom: 1px #186144 solid;
+	border-bottom: 1px #2196f3 solid;
 }
 
 .mainInfoLabel {
-	color: #186144;
+	color: #2196f3;
 	margin: 0px 10px;
 	height: 100%;
 	line-height: 30px;
@@ -1215,7 +1215,7 @@ div.knife {
 	height: 39px;
 	line-height: 35px;
 	text-align: center;
-	background: #186144;
+	background: #2196f3;
 	color: #fff;
 	margin: 0 auto;
 	z-index: 10;
@@ -1233,8 +1233,8 @@ div.knife {
 	float: right;
 	height: 49px;
 	width: 50px;
-	border-left: 1px #186144 solid;
-	background-image: url(https://i.imgur.com/Pw82Pa6.png);
+	border-left: 1px #2196f3 solid;
+	background-image: url(https://i.imgur.com/W8vZ2xV.png);
 	background-repeat: no-repeat;
 	background-size: 70% 70%;
 	background-position: center;
@@ -1283,13 +1283,13 @@ div.knife {
 	top: 49px;
 	width: 580px;
 	background: #1A2929;
-	border-bottom: 1px #186144 solid;
+	border-bottom: 1px #2196f3 solid;
 	z-index: 1;
 	transition: .5s;
 }
 
 .Player{
-	color: #186144 !important;
+	color: #2196f3 !important;
 }
 
 
@@ -1353,7 +1353,7 @@ div.knife {
 	transform: scale(1);
 	cursor: pointer;
 	-webkit-user-select: none;
-	box-shadow: 0 0 25px rgba(0,117,9,0.5);
+	box-shadow: 0 0 25px rgba(33,150,243,0.5);
 	overflow: hidden;
 }
 
@@ -1366,15 +1366,15 @@ div.knife {
   margin: 20px auto;
   width: 350px;
   height: 85px;
-  background: linear-gradient(#1d7751, #0e382c);
-  border: 3px #25793b solid;
+  background: linear-gradient(#2196f3, #003399);
+  border: 3px #00ccff solid;
   border-radius: 5px;
   text-shadow: 0 0 20px rgba(255,255,255,0.3);
   transition: .1s;
   transform: scale(1);
   cursor: pointer;
   -webkit-user-select: none;
-  box-shadow: 0 0 25px rgba(0,117,9,0.5);
+  box-shadow: 0 0 25px rgba(33,150,243,0.5);
   overflow: hidden;
 }
 
@@ -1384,10 +1384,10 @@ div.knife {
 }
 
 .tradeButton:active {
-  background: linear-gradient(#1f8258, #114435);
+  background: linear-gradient(#2196f3, #003399);
   text-shadow: 0 0 20px rgba(255,255,255,0.5);
   transform: scale(1);
-  box-shadow: 0 0 30px rgba(43,137,68,0.5);
+  box-shadow: 0 0 30px rgba(33,150,243,0.5);
 }
 
 .tradeButton:after {
@@ -1440,7 +1440,7 @@ div.knife {
 }
 
 ::-webkit-scrollbar-thumb {
-   background-color: #25793B;
+   background-color: #2196f3;
 }
 
 /*===============HELPERS===================*/
@@ -1479,7 +1479,7 @@ div.knife {
     height: 300px;
     width: 500px;
     background: #101619;
-    border: 1px #186144 solid;
+    border: 1px #2196f3 solid;
 	}
 
 	.modalMain.winner {

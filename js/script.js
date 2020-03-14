@@ -15,7 +15,7 @@ if (localStorage.getItem("imgData") === null) {
 }
 
 var currentCase = "case1";
-var acceptMoneyPerClick = 0.1;
+var acceptMoneyPerClick = 1000;
 
 /*=========================Inventory============================*/
 //In inventory: weap skins
@@ -23587,8 +23587,8 @@ var jackpotAI = {
 	bot26: ["SirRazor", 8, "https://i.imgur.com/4WA3vTU.jpg"],
 	bot27: ["DennyB", 8, "https://i.imgur.com/VNE57CT.jpg"],
 	bot28: ["Bio", 8, "https://i.imgur.com/acTRiBk.jpg"],
-	bot29: ["Tiny", 8, "https://i.imgur.com/2aOas2H.jpg"],
-	bot30: ["Toshiyuki", 8, "https://i.imgur.com/rNszEvF.jpg"],
+	bot29: ["TopsideSpider69", 8, "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2c/2cdadeca5c813f3374f38b36389e383a9243b735_full.jpg"],
+  	bot30: ["jkush | MANN", 8, "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/6965c9ced28cc9ae6263cd33ac791e11998b069b_full.jpg"],
 	bot31: ["King of KFC Jamal", 9, "https://i.imgur.com/XhFlH2S.jpg"]
 };
 
